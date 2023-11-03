@@ -1,0 +1,3 @@
+{
+    "getPoolToken": "function getPoolToken(uint256, address) view returns (address,uint256,uint256,bool)"
+  }
